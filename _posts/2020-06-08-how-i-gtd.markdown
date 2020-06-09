@@ -1,0 +1,51 @@
+---
+layout: post
+title: "How I GTD"
+date: 2020-06-08 20:54:17 -0700
+---
+
+### GTD Now
+
+I'd like to think that my current Get Things Done (GTD) framework on Notion is quite effective. It's mostly based on [this](gtd).
+
+I have a root page with a list of pages going into each of `In` , `Next Actions` , `Waiting For` etc... `In` and `Next Actions` are favorited on the sidebar for quick access.
+
+![gtd-home](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00bf1aae-a110-4148-bbe4-4cb06adfb79c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T050352Z&X-Amz-Expires=86400&X-Amz-Signature=d8c2defc9a2774b9c32d7c3e184a22347d53d21d189247816019bea9e9813a39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22){:height="250px"}
+
+My `Next Actions` page is a full page table that looks like this. I've included relations to the `In` and `Project` list to provide quick context for each entry. Tags and the deadline are quick ways to gauge urgency & time required to complete task.
+
+![gtd-next-actions](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59653d06-0334-44de-8a53-07eca4fbfaf3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T053005Z&X-Amz-Expires=86400&X-Amz-Signature=4f2a445d99040818ae9fa97a89b8ab9abf7d1781c3746ebdfab6e3df61a0b416&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+Most of the other pages are just filtered views of the `Next Actions` page. For example, moving items from `Next Actions` to `Waiting For` is just as simple as adding the `Waiting For` tag.
+
+![gtd-waiting-for](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a7dfb42d-921e-416d-ac4e-573c0a034c7a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T053130Z&X-Amz-Expires=86400&X-Amz-Signature=9ffa861aad13ef90ea4159063a02bd60f35bd17601aff736318cb5902ed33407&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+Moving items from `Next Actions` to `Some Day` just requires adding the `Some Day` tag.
+
+![gtd-some-day](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/634350f5-0326-4fb1-9bb0-bad90f16a58a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T053218Z&X-Amz-Expires=86400&X-Amz-Signature=121122f9cca8acf5e7d485dfcc541eb0f09ff9668ea6c2cb076e933def31030e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+It's useful to note that GTD isn't at all suited for recurring tasks. What I do is set up repeated Calendar events with email alerts. I'm taking advantage of how much I hate inbox clutter, to make sure I clear out the repeated TODO emails.
+
+I tend not to create each recurring task as a separate email alert - that's a bit much. Instead, I track the recurring tasks inside my daily diaries. Check it out here.
+
+### GTD Back then
+
+When I first started tracking TODOs for myself, I was using the TODOs template page that came with my first use of Notion. I would send email reminders to myself to visit the TODOs page every day for updating & pruning.
+
+The TODO template page was extremely primitive - it just shows a list of checkboxes and an archive. Manual effort was required to move stuff over to the `Done` column and the archive box.
+
+As you can't turn a checkbox list item into a page, it was hard to add more information into each TODO item, other than stuffing everything into comments. As a result, information was much less accessible, and less "rich".
+
+**The greater the friction, the easier it was for me to fall out of that habit.**
+
+Noticing how much I hated a cluttered inbox, I tried taking advantage of that to use TODOs via emails to myself - dreadful.
+
+### Recurring TODOs
+
+Separate from my GTD framework, I keep a daily diary on Notion to track my recurring TODOs, such as exercising, yoga, reading, grooming my inbox and GTD lists. It's also a good place to write down any key events that happened that day, but I haven't yet built this habit.
+
+I fully embrace Notion templates for my diary entries. Each day is it's own template, and each template comes with a list of checkboxes that represented my recurring TODO for that day. Grooming my inbox is a daily activity that I spend (ideally) `30m` in the morning and in the evening.
+
+![gtd-todo-templatets](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d0074b3f-df8f-4604-a1af-338db4518e66/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T054625Z&X-Amz-Expires=86400&X-Amz-Signature=8fe7197f195b92de6fe63542bd8ccbe2d8ce2ae07ffda4f8f8337bea70cb2e8f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22){:class='img-logo' width='250px'} | ![gtd-todo-example](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dbc570cb-e4d1-4d27-ab15-fc29b3548c42/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200609%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200609T054700Z&X-Amz-Expires=86400&X-Amz-Signature=0747695d5ab2542dbf24d9c340babf8e40d900a41d33d69a2a67b4b8d1017cde&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22){:class='img-logo' width='250px'}
+
+[gtd]: https://hamberg.no/gtd
